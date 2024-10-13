@@ -17,8 +17,14 @@ A simple and colourful calculator webpage that mimics the functionality of a bas
 - **CSS**: Styling for the calculator, including layout, colors, and responsive design.
 - **JavaScript**: Logic for handling arithmetic operations and user inputs.
 
-## How to Run
+## How to Run 
 
-1. Clone the repository:
+if you only run with using terminal then for java file 
+java CalculatorInJava
+
+and if run using webpage structure simple download and run this 
+
+ 
+Clone the repository:
    ```bash
    git clone https://github.com/sunitachoudhary0280/calculator-webpage.git
